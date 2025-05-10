@@ -3,7 +3,7 @@
 
 ## 📌 Objetivo
 
-Montar un clúster Cassandra de 3 nodos en tu computador usando Docker y Docker Compose, tal como se solicita en el Requisito 1 del laboratorio INF325.
+Montar un clúster Cassandra de 3 nodos en tu computador usando Docker y Docker Compose, Requisito 1 del laboratorio INF325.
 
 ---
 
