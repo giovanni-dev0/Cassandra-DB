@@ -9,7 +9,7 @@ Montar un clúster Cassandra de 3 nodos en tu computador usando Docker y Docker 
 
 ## 🖥️ Requisitos del sistema
 
-- Windows 11 con **WSL 2** y Ubuntu 22.04 instalado
+- Windows 11 con **WSL 2** Ubuntu 22.04 instalado
 - Docker Desktop instalado y funcionando
 - Docker Compose v2 habilitado
 - Conexión a Internet
