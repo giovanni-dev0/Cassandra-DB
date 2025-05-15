@@ -104,11 +104,16 @@ Guarda y cierra el editor (`Ctrl + O`, luego `Enter`, y `Ctrl + X`).
 docker compose up -d
 ```
 
+![image](https://github.com/user-attachments/assets/a220ed57-5223-4ded-91eb-825dbfeb0f38)
+
+
 Verifica que los contenedores estén corriendo:
 
 ```bash
 docker ps
 ```
+![image](https://github.com/user-attachments/assets/568b9dc2-9b50-48fb-9886-a5623654cd36)
+
 
 ---
 
@@ -128,6 +133,9 @@ nodetool status
 
 ✔️ Debes ver los 3 nodos con estado `UN` (Up / Normal).
 
+![image](https://github.com/user-attachments/assets/aa2da712-c070-4290-92a1-f2123bff95d0)
+
+
 Luego sal del contenedor:
 
 ```bash
@@ -143,16 +151,3 @@ Cuando termines:
 ```bash
 docker compose down
 ```
-
----
-
-## 📸 Evidencia para el informe
-
-Para completar el informe en el Requisito 1 (`2.1 Desarrollo Requisito 1`):
-
-- Captura de `docker ps`
-- Captura de `nodetool status`
-- Imagen del archivo `docker-compose.yml`
-- Breve explicación del funcionamiento del clúster Cassandra y configuración
-
----
