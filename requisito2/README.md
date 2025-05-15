@@ -109,6 +109,7 @@ Verificación:
 ```sql
 DESCRIBE TABLES;
 ```
+![image](https://github.com/user-attachments/assets/3427a210-5229-4b78-a706-0d167671a6f5)
 
 ---
 
@@ -137,6 +138,7 @@ python3 cargar_postulaciones.py
 
 📥 Resultado:
 > Inserción completada sin errores :)
+![image](https://github.com/user-attachments/assets/a76c315b-68c9-442d-86cd-362e8cd7dbd5)
 
 ---
 
@@ -151,6 +153,8 @@ SELECT COUNT(*) FROM postulaciones_por_carrera_estado;       -- 16651 registros
 SELECT COUNT(*) FROM postulaciones_por_region_carrera;       -- 16651 registros
 SELECT COUNT(*) FROM postulaciones_por_facultad;             -- 15243 registros
 ```
+![image](https://github.com/user-attachments/assets/301ec0b7-1b4a-4e9f-900e-75279047dfcb)
+
 
 ---
 
