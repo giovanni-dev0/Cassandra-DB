@@ -134,9 +134,3 @@ docker stop cassandra1
 ```
 
 Luego recargar Power BI usando DSN de cassandra2 o cassandra3.
-
----
-
-## ✅ Conclusión
-
-Con esta modificación tus compañeros pueden cumplir los Requisitos 4 y 5 sin rehacer todo, solo editando el archivo `docker-compose.yml`.
